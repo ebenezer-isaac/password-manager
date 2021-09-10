@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "premium-bloom-319904",
+  "private_key_id": "eb238a5b51517806ca2e958471c528fdc567d29f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbdlp+pzO6d1Bt\nMRZAInLmD5TZ/FEg5USoTWkXEbZm7krB/imo+FRgmayExnS863GKgbX63bRIXQoU\nBhjikoFPyN0WKS6Og/d/D34sD7ZWy0YpSNzFgR7WmcdrTVKrw3jAReyuzalNMSiX\n/zJXwGXLj8BhGzGeO93GqhDCg8sVcavGh/61kWclQax7rzhPUkmmQIYYcqifdIwy\nza3A8fonYn8vw4MR87TcshrgUH2vdxFJr5FjgH9MgfRwGAh0MDDYVIA1+RuPWrym\n8pX3YRq90IAK9btYzvm8S/7i8dr7Be2Ed5zzPauCD7Z9wB+9IS32lr6NdsPM8/8C\nAIxI1fPnAgMBAAECggEANza1tT3VFWjC28UPTf/uJt9p0nHWroQ++jdkF5lm2u/P\nBU8rpKNt9FEgAJgrZd2JGdQvucV7/idtKOdxdybpXljMjM5bhqpAAJSUDzoVXIYd\niRQjtNHDDhzXwrhXoEFwZXlwMjVA5/WJoVI1owzmGoIXpWVvHe/NOH22Lh94xUhn\nhWLX2jEgYIqK7u4pk5w0QnhgrwMCSeTSY+06rCMlafAwc6r00CbROL/5DQgYLH+r\ngETss1Ze3gy9Cj82quGJx4nS8UYnEaEJX8+KFMN07rOdXbSK0pRMiwYWhxGtYiph\n0b7TGXoWkar63IADT7+1IvuL2MndLydaQb0I6yViAQKBgQDb2mwMahqxT0YSr0xT\nxSTgEy3X/PlR6xsdcFjQNEXAgWzGaG11F7hycWyMcO6c/ukZ8JGHInBV3D4a6aZM\n1dRvScHt5hlOGrGZiRJl/iA5maM1Z3WVV3JgnKaGwNtVyLySu6uMYcznMx5zhKvx\nOriOh2nvZj/IDVny57o6uyIUQQKBgQC1BbtHR4mZcQdlmwNgaCaNAQztHPkgXLk0\nPVXdfZAYmNUCEuyNWXArPTJxeeJe0DtYh/dQmO3Si887bC1bP8T7ZZ5g6rhsoLKE\n0VECvqMC0RxPJ9Afl4WysQRYy/1lFSpLj6RffV3C0LUHPC6JOi5/SgloNDfXcT4s\nNMRJofVeJwKBgHDlqxJ88hQXN06lAjcKR7NhZetCFu3AI35skM7p6N/AFpGUUpEM\ni0UJhcpgu8eXBzCw3qpcPv94R9QeI63VKG+1moaF4HzBLG5Be1cwtm+du7fS1wjH\njQ6botAT/Q4CNQPMp31BQ61+DKcZfAo2M0vNsdKj2SDr6kLYSEOckRWBAoGATYIn\nvwxtaUrRLPsjhfryTrudakVWkjnBfxGoG08xDKcbxWiO6rLZ6VmpqJbUi15DmtOU\n3Giuo9EDKWFXRlPWpwHKv5qg3ror1dy+ABvaNlGM+oOEhJJfR7SttMubMtXOJ05Y\nxh4qsEimynNFRbKoyA3OW1TIeDHfuhPZ2+FB608CgYAoeC1jjQLwHY2YTW2dJmec\nL6BpfT6toFLjYYtKPcZ9wlXv6jpBonqPUpA+x/mpw5RK8u0oW+YrSlaNe6gueC2o\nhMDvO+S2zkFmNdaZrHfO4cxcFlJo554a22WXN5yivi755J7W6P+xV21u6IndZ3rR\nJ+0/4OVlBSuQ3M6YenClXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pasword-manager@premium-bloom-319904.iam.gserviceaccount.com",
+  "client_id": "107071203946553068732",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pasword-manager%40premium-bloom-319904.iam.gserviceaccount.com"
+}
